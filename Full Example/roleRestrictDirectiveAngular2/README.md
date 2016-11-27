@@ -8,5 +8,5 @@ npm install -g angular-cli && npm install
 ```
 Running the example by typing
 ```javascript
-npm run
+npm start
 ```
