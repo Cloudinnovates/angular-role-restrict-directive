@@ -9,7 +9,7 @@
                 var allowAccess = false;
                 var user = authService.user;
 
-                // you can set your default authorized roles in the if statement below
+                // you can check for default roles such as an admin here
                 // if(user.role.toLowerCase().trim() === 'admin') 
                 //     return;
 
