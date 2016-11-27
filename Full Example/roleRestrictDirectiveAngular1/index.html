@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html ng-app="app">
+
+<head>
+    <title>role restrict</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+    <script src="app/app.js"></script>
+
+
+    <script src="app/services/authService.js"></script>
+    <script src="app/directives/role-restrict.js"></script>
+
+</head>
+
+<body ng-controller="mainController">
+    <h1>Angular1 directive to restrict roles </h1>
+    <p role-restrict allow="user">
+        This paragraph can't be accessed
+    </p>
+</body>
+
+</html>

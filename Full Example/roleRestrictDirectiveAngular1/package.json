@@ -1,0 +1,26 @@
+{
+  "name": "role_restrict_directive",
+  "version": "1.0.0",
+  "description": "An angular1 directive to restrict access to DOM elements based on user role",
+  "main": "index.html",
+  "keywords": [
+    "role-restrict",
+    "user-restrict",
+    "restrict directive",
+    "angular role restrict",
+    "role"
+  ],
+  "repository": {
+    "url": "https://github.com/IbraheemAlSaady/angular1-role-restrict"
+  },  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp run"
+  },
+  "author": "Ibraheem Al Saady <ibraheem.al-saady@outlook.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.2",
+    "gulp": "^3.9.1"
+  }
+}

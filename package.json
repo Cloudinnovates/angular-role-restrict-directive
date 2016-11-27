@@ -1,0 +1,23 @@
+{
+  "name": "angular-role-restrict-directive",
+  "version": "1.0.0",
+  "description": "A directive for angular 1 and angular 2 to restrict users on viewing certain areas based on user role",
+  "keywords": [
+    "role-restrict",
+    "user-restrict",
+    "restrict directive",
+    "angular role restrict",
+    "restrict user role",
+    "angular restrict role", 
+    "angular restrict user"
+  ],
+  "repository": {
+    "url": "https://github.com/IbraheemAlSaady/angular-role-restrict-directive"
+  },
+  "main": "angular",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ibraheem Al Saady <ibraheem.al-saady@outlook.com>",
+  "license": "ISC"
+}
